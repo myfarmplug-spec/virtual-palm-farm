@@ -1,0 +1,1 @@
+Place exported Figma images and SVGs here. Replace placeholder paths in components if needed.

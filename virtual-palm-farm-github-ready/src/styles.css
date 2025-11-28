@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple app-level custom styles */
+:root {
+  --brand: #0f7a3e;
+  --sand: #f2d8b0;
+}
+
+/* Button focus styles */
+.button-focus:focus{outline:2px solid rgba(15,122,62,0.3);outline-offset:2px}
+
+/* Subtle transition for cards */
+.card-transition{transition:transform .15s ease, box-shadow .15s ease}
